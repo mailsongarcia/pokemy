@@ -1,0 +1,10 @@
+identifier,species_id,height,weight,order,is_default
+bulbasaur,1,7,69,1,1
+ivysaur,2,10,130,2,1
+venusaur,3,20,1000,3,1
+charmander,4,6,85,5,1
+charmeleon,5,11,190,6,1
+charizard,6,17,905,7,1
+squirtle,7,5,90,10,1
+wartortle,8,10,225,11,1
+blastoise,9,16,855,12,1
